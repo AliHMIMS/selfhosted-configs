@@ -866,6 +866,8 @@
 ||wwwfacebook.com^
 ||wwwinstagram.com^
 ||wwwmfacebook.com^
+||www.facebook.com^
+||www.instagram.com^
 ||wxw.moe^
 ||x.com^
 ||yaplakal.com^
